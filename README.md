@@ -12,10 +12,13 @@ W niektórych rozwiązaniach (chodzi o **lab1**, **lab4**, **lab5** i **lab6**) 
 - w lab6 są błędy w metodzie MCTS - możliwe, że coś namieszałem z turą gracza (dotyczy w szczególności części dodatkowej).
 
 Do każdego laboratorium była możliwość zrobienia zadania dodatkowego - ja takie zrobiłem (lub przynajmniej się starałem zrobić) do laboratoriów nr 2, 3, 4 i 6.
-Na tę chwilę mam ocenione pierwsze 4 laby:
+Na tę chwilę mam ocenione pierwsze 4 laby (EDIT: 19.02.2025r. mam już ocenę ze wszystkich labów):
 - lab1: `10/13` punktów - nie zrobiłem zadania dodatkowego, część "podstawowa" full
 - lab2: `10/10` punktów
 - lab3: `10/10` punktów
 - lab4: `10/10` punktów (a to ciekawe, biorąc pod uwagę tę manianę - czyżby nie sprawdzał dokładnie? ...)
+- lab5: `7/10` punktów - bez zadania dodatkowego (też ciekawe)
+- lab6: `9/10` punktów - straciłem 1 punkt za słabą implementację MCTS, i tak mogło być gorzej
+- lab7: `7/10` punktów - bez zadania dodatkowego
 
 Oczywiście rozwiązania pozostałych laboratoriów poza wspomnianymi też mogą zawierać błędy, ale w większości powinny być poprawne, a przede wszystkim mam nadzieję, że okażą się przydatne. Korzystajcie rozważnie!
